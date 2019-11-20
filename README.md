@@ -3,6 +3,7 @@
 Página para suporte na tradução do servidor. Caso deseje adicionar um novo idioma, basta contatar um desenvolvedor.
 
 Informações:
+
   1 - Somente deve ser traduzido as mensagens apos o delimitador = 
     Exemplo: MSGINFO= Está é uma mensagem de testes. Somente deve ser alterado a frase "Está é uma mensagem de testes". 
     
